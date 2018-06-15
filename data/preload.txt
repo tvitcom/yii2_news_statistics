@@ -1,0 +1,1 @@
+yii migrate/create create_news_table
